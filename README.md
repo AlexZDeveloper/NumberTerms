@@ -1,2 +1,0 @@
-# NumberTerms
-UniLecs Task130
